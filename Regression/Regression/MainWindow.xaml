@@ -1,0 +1,9 @@
+﻿<Window x:Class="Regression.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Regression" Height="350" Width="525">
+    <Grid>
+        <Canvas x:Name="mainCanvas" Background="#FFEEEEEE" MouseDown="mainCanvas_MouseDown" KeyDown="mainCanvas_KeyDown" Loaded="mainCanvas_Loaded"/>
+
+    </Grid>
+</Window>

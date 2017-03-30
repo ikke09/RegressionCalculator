@@ -1,0 +1,15 @@
+Z:\Regression\Regression\bin\Debug\Regression.exe.config
+Z:\Regression\Regression\bin\Debug\Regression.exe
+Z:\Regression\Regression\bin\Debug\Regression.pdb
+Z:\Regression\Regression\obj\Debug\Regression.csprojResolveAssemblyReference.cache
+Z:\Regression\Regression\obj\Debug\MainWindow.baml
+Z:\Regression\Regression\obj\Debug\MainWindow.g.cs
+Z:\Regression\Regression\obj\Debug\App.g.cs
+Z:\Regression\Regression\obj\Debug\Regression_MarkupCompile.cache
+Z:\Regression\Regression\obj\Debug\Regression.g.resources
+Z:\Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+Z:\Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.Cache
+Z:\Regression\Regression\obj\Debug\Regression.exe
+Z:\Regression\Regression\obj\Debug\Regression.pdb
+Z:\Regression\Regression\bin\Debug\Math_Collection.dll
+Z:\Regression\Regression\bin\Debug\RuntimeFunctionParser.dll
